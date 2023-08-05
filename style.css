@@ -12,7 +12,6 @@ body {
   justify-content: center;
   align-items: center;
   padding: 10px;
-  position: fixed; /* Make the navbar fixed */
   top: 0; /* Position it at the top of the page */
   left: 0;
   right: 0;
